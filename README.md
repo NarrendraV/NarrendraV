@@ -1,102 +1,27 @@
-# Hi, I'm Narrendra Vakkapati
+# 💫 About Me:
+I'm Narrendra Vakkapati - I don't need a control tower, I build one with Power BI. I don't chase supply chain problems, I hunt them down with SQL, SAP S/4HANA, Oracle ERP, and Blue Yonder WMS. While others see warehouses, I see intelligent systems waiting to be optimized. I automate the repetitive, decode operational chaos, and turn bottlenecks into smooth-flowing execution. If inventory goes missing, I find it. If workflows slow down, I redesign them. If the data speaks, I make sure the business listens. Some people manage operations - I engineer them. 📦⚙️🚚
 
-### Turning warehouses into intelligent systems and supply chains into data-driven machines.
+## 💻 Tech Stack:
 
-I don’t just analyze operations — I re-engineer them.
-
-From **SAP S/4HANA**, **Oracle ERP**, and **Blue Yonder WMS** to **real-time dashboards** and **automation pipelines**, I build systems that eliminate inefficiencies, predict demand, and optimize every moving part of the supply chain.
-
-- If there’s a bottleneck, I find it.  
-- If there’s manual work, I automate it.  
-- If there’s data, I turn it into decisions.  
-
-With **7+ years of experience** across **logistics, healthcare, and enterprise systems**, I blend **analytics, automation, and operations** to deliver measurable impact.
-
-## Building smarter supply chains. One system at a time.
-
----
-
-## Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Narrendra%20Vakkapati-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/narrendra-vakkapati/)
-
----
-
-## Core Skills
-
-### Supply Chain Planning & Execution
-- Demand Forecasting
-- Inventory Optimization
-- Procurement Analysis
-- Vendor Performance Management
-- Supply Planning
-- Fulfillment Support
-
-### Warehouse Management & Logistics
-- Blue Yonder (JDA) WMS
-- Enterprise Supply Planning (ESP)
-- Luminate Warehouse Tasking
-- WM / EWM
-- Inbound & Outbound Operations
-- Wave Processing
-- Inventory Control
-
-### Data Analysis & Reporting
-- Power BI
-- Tableau
-- Microsoft Excel (Advanced)
-- SQL / PLSQL
-- Jasper Reports
-- Page Builder
-- JDA Integrator
-
-### ERP & SCM Systems
-- SAP S/4HANA
-- Oracle ERP
-- Manhattan Associates
-- Dell Boomi
-- MuleSoft
-
-### Technical Tools & Programming
-- MOCA Commands
-- LexEdit
-- Microsoft SQL Server
-- Database Scripting
-- Troubleshooting
-
-### Process Improvement & Quality Management
-- Lean Six Sigma (Green Belt)
-- DMAIC
-- Root Cause Analysis (RCA)
-
----
-
-## What I Work On
-
-- Warehouse systems optimization
-- Supply chain analytics
-- ERP and WMS integrations
-- Workflow automation
-- KPI dashboards and reporting
-- Inventory accuracy improvement
-- Throughput and fulfillment optimization
-- Data-driven operational decision support
-
----
-
-## GitHub Focus
-
-This GitHub reflects my work and interests in:
-
-- Supply chain analytics
-- Warehouse optimization
-- ERP / WMS integrations
-- Reporting automation
-- Data-driven operations
-- Process improvement and system intelligence
-
----
-
-## Let's Build Better Operations
-
-If you’re passionate about **supply chain systems**, **warehouse intelligence**, **enterprise automation**, and **operational analytics**, we’ll probably get along well.
+![SAP S/4HANA](https://img.shields.io/badge/SAP%20S%2F4HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Oracle ERP](https://img.shields.io/badge/Oracle%20ERP-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Blue Yonder](https://img.shields.io/badge/Blue%20Yonder%20WMS-0033A0?style=for-the-badge&logoColor=white)
+![Manhattan Associates](https://img.shields.io/badge/Manhattan%20Associates-00A3E0?style=for-the-badge&logoColor=white)
+![Dell Boomi](https://img.shields.io/badge/Dell%20Boomi-0B5FFF?style=for-the-badge&logoColor=white)
+![MuleSoft](https://img.shields.io/badge/MuleSoft-00A1E0?style=for-the-badge&logoColor=white)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PLSQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Jasper Reports](https://img.shields.io/badge/Jasper%20Reports-D32F2F?style=for-the-badge&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MOCA Commands](https://img.shields.io/badge/MOCA%20Commands-1E1E1E?style=for-the-badge&logoColor=white)
+![LexEdit](https://img.shields.io/badge/LexEdit-4B0082?style=for-the-badge&logoColor=white)
+![Warehouse Management](https://img.shields.io/badge/Warehouse%20Management-1565C0?style=for-the-badge&logoColor=white)
+![Inventory Optimization](https://img.shields.io/badge/Inventory%20Optimization-2E7D32?style=for-the-badge&logoColor=white)
+![Demand Forecasting](https://img.shields.io/badge/Demand%20Forecasting-6A1B9A?style=for-the-badge&logoColor=white)
+![Vendor Management](https://img.shields.io/badge/Vendor%20Management-00897B?style=for-the-badge&logoColor=white)
+![Lean Six Sigma](https://img.shields.io/badge/Lean%20Six%20Sigma-FF6F00?style=for-the-badge&logoColor=white)
+![DMAIC](https://img.shields.io/badge/DMAIC-3949AB?style=for-the-badge&logoColor=white)
+![Root Cause Analysis](https://img.shields.io/badge/Root%20Cause%20Analysis-C62828?style=for-the-badge&logoColor=white)
